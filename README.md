@@ -269,7 +269,6 @@ JitImage comes with 2 predfined filters, `GreyScale` and `Cirlce`:
 This is a convenient way to scale images within your blade templates. It will create an imageurl similar to `/jit/storage/2egf4gfg/jit_139e2ead8b71b8c7e.jpg`
 
 Note: this won't work if both caching and dynamic processing are disabled.
-Note: this won't work if both caching and dynamic processing are disabled.
 
 ```php
 
